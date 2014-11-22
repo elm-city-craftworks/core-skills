@@ -6,7 +6,7 @@ enforce this code throughout all courses, events, and activities we host.
 We are expecting cooperation from all participants to help ensuring a safe 
 learning environment for everyone.
 
-*tl;dr: Be excellent with each other*
+*tl;dr: Be excellent with each other.*
 
 ## Need Help?
 
