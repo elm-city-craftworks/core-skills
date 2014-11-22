@@ -39,7 +39,7 @@ or expulsion from the Practicing Ruby learning environment with no refund.
 
 If you are being harassed, notice that someone else is being harassed,
 or have any other concerns, please contact a mentor or instructor immediately.
-You have been provided with our contact infomation at the start of the course. 
+Our contact information was provided at the start of your course.
 
 Practicing Ruby's organizers will be happy to help participants contact 
 law enforcement, or otherwise assist those experiencing harassment to 
